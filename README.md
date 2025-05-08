@@ -49,4 +49,6 @@
 
 ### 🤝 Let's connect
 
+[@crypto-karpenko](https://github.com/crypto-karpenko/)
+
 Feel free to reach out if you're into cryptocurrency, financial tech, or would like to build trading tools together!
